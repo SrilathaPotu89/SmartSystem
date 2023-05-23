@@ -1,0 +1,8 @@
+
+Audit:
+i. While adding new audit we have option to start date and Complete date --> we don’t have much clarity about those dates (Like if we add complete date to that audit --> if that Complete date expires what we need to --> is that in inactive mode??) 
+ 
+Git:
+i. In Git config Details add form we have last git syn date field --> is that field required in add form?? 
+
+ii. As of now we didn’t show any data in List also --> Are we need to update the date based on our last git sync of that git process??   
