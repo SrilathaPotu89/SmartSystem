@@ -20,7 +20,7 @@ contract example {
         State state;
         int32 pid;
         uint32 reaped = 3;
-
+//contracts
         // Constants
         State constant bad_state = State.Zombie;
         int32 constant first_pid = 1;
